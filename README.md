@@ -19,17 +19,20 @@ To review the analysis methods and conclusions from the assigment:
 1. Simply launch the Jupyter Notebook entitled "FDA-Project.ipynb"
 2. Review the full analysis in the Jupyter Notebook
 3. Run individual elements of the python code by highlighting cells and using command SHIFT+ENTER
-4. Consult the "Initial Research" section of this README file for information on my approach to this assignment
-5. Consult the "Method" section of this README file for information on my methodology for this assignment
-6. Consult the "References & Research" section of this README file for information on my further reading in relation to this assigment
+4. Consult the "Objectives" section of this README file for information on the objectives and structure of this assignment
+5. Consult the "Initial Research" section of this README file for information on my approach to this assignment
+6. Consult the "Method" section of this README file for information on my methodology for this assignment
+7. Consult the "References & Research" section of this README file for information on my further reading in relation to this assigment
 
 ## Objectives
 
 The aim of this project is to:
 
-Summarise the history of the box plot and situations in which it is used.
+Summarise the history of the box plot
+Highlight situations in which it is used.
 Demonstrate the use of box plots using data.
-Explain relevant terminology used in the creation and analysis of box plots including quartile, percentile, median, min, max, outlier, whisker, hinge and fence
+Explain relevant terminology used in the creation and analysis of box plots including:
+{quartile, percentile, median, min, max, outlier, whisker, hinge and fence}
 Compare box plotting to some alternatives
 
 ## Initial Research
@@ -37,3 +40,5 @@ Compare box plotting to some alternatives
 ## Method
 
 ## References & Research
+
+
