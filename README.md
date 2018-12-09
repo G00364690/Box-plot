@@ -35,6 +35,14 @@ Explain relevant terminology used in the creation and analysis of box plots incl
 {quartile, percentile, median, min, max, outlier, whisker, hinge and fence}
 Compare box plotting to some alternatives
 
+## Project Plan
+Build submission template
+Conduct initial research on box plots and alternatives
+Choose a data set for submission and provide rationale for the choice
+Develop some boxplots for the data set
+Develop alternatives for submission data
+Summarise project findings
+
 ## Initial Research
 
 ## Method
