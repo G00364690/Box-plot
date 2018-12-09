@@ -28,20 +28,20 @@ To review the analysis methods and conclusions from the assigment:
 
 The aim of this project is to:
 
-Summarise the history of the box plot
-Highlight situations in which it is used.
-Demonstrate the use of box plots using data.
-Explain relevant terminology used in the creation and analysis of box plots including:
+1. Summarise the history of the box plot
+2. Highlight situations in which it is used.
+3. Demonstrate the use of box plots using data.
+4. Explain relevant terminology used in the creation and analysis of box plots including:
 {quartile, percentile, median, min, max, outlier, whisker, hinge and fence}
 Compare box plotting to some alternatives
 
 ## Project Plan
-Build submission template
-Conduct initial research on box plots and alternatives
-Choose a data set for submission and provide rationale for the choice
-Develop some boxplots for the data set
-Develop alternatives for submission data
-Summarise project findings
+1. Build submission template
+2. Conduct initial research on box plots and alternatives
+3. Choose a data set for submission and provide rationale for the choice
+4. Develop some boxplots for the data set
+5. Develop alternatives for submission data
+6. Summarise project findings
 
 ## Initial Research
 
