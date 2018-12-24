@@ -44,8 +44,17 @@ Compare box plotting to some alternatives
 6. Summarise project findings
 
 ## Initial Research
+There is an extensive history behind the use of box plots that's easily accessible. In short the box plot is a graphical method to analyse the distribution of a dataset. There are some obvious statistical quantities that can be easily shown at once using box plots. The key to the project is finding a good data set to bring the box plot to life. Further research has shown that the box plot combined with a swarm plot can be very interesting graphically and give a solid indication of the nature of a distribution. Alternatives to this approach can be the use of bean plots or violin plots. The advantage here is the bean or violin is at it's widest where the mode average of the distribution lies.
 
 ## Method
+The method for this project was to take lead generation data from a payments facilitator operating across the UK and Ireland and analyse the breakdown of this information across multiple regions within these two countries. Plotting the data using box plots and swarm plots gives us the opportunitity to investigate whether Market Size or Seasonality play a significant role in turning customer leads into closed won accounts. 
+
+To do this the data has been plotted and analysed using:
+1. Box Plots - to graphically plot the distribution of a dataset
+2. Swarm Plots - to better ilustrate the mode of the distribution
+3. Facet Grids - to investigate linearity
+4. Violin Plots - as an alternative to box plot
+5. Strip Plots - as an alternative to swarm plot
 
 ## References & Research
 http://vita.had.co.nz/papers/boxplots.pdf
